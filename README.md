@@ -9,7 +9,7 @@ Welcome to the Trivia Quiz Game – a fun and interactive web-based quiz game de
 	•	Contributing
  
 # Features
-	•	3 different questions
+	•	Questions: 3 different questions
 	•	Feedback System: Get instant feedback on whether answers are correct or incorrect.
 	•	Responsive Design: Works smoothly on various screen sizes for both desktop and mobile.
  
