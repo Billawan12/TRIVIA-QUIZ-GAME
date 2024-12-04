@@ -1,4 +1,4 @@
-# TRIVIAVERSE
+# TRIVIAQUIZGAME
 Welcome to the Trivia Quiz Game – a fun and interactive web-based quiz game developed as part of our APT1040 (Intro to Web Design and Applications) Assignment! In this game, players can test their knowledge on 3 different questions, and try to achieve the highest score. This game is designed to be engaging and user-friendly, with feedback.
 
 # Table of Contents
