@@ -4,7 +4,7 @@ Welcome to the Trivia Quiz Game – a fun and interactive web-based quiz game de
 # Table of Contents
 	•	Features
 	•	Technologies Used
-	•	Project Structure
+	•	Structure
 	•	Installation
 	•	Contributing
  
@@ -15,15 +15,21 @@ Welcome to the Trivia Quiz Game – a fun and interactive web-based quiz game de
  
 # Technologies Used 
 	•	HTML: For structuring the web pages.
-	•	CSS: For styling, animations, and creating a visually appealing interface.
-	•	JavaScript: For game logic, question handling, score calculation, and timer functionality.
+	•	CSS: For styling and creating a visually appealing interface.
+	•	JavaScript: For question handling  and functionality.
 	•	Git/GitHub: Version control and collaboration.
- 
-# Project Structure 
-TriviaQuizGame/
-├── TRIVIAQUIZ.Html         # Main HTML file for the game structure
-├── TRIVIAQUIZ.css          # CSS file for styling and animations
-└── TRIVIAQUIZScript.js     # JavaScript file for game functionality
+ # structure
+├── app.css               
+├── end.html              
+├── end.js               
+├── game.css              
+├── game.html            
+├── game.js              
+├── high-scores.css      
+├── high-scores.html      
+├── high-scores.js       
+├── index.html           
+├── questions.json       
 
 
 # Installation
@@ -38,7 +44,7 @@ git clone https://github.com/yourusername/TriviaQuizGame.git
 cd TriviaQuizGame
 
 
-	3.	Open the TRIVIAVERSE.html file in your browser to start the game.
+	3.	Open the TRIVIAQUIZ.html file in your browser to start the game.
 
  # Contibuting 
  We’re working collaboratively on this project. Each team member works on their assigned branch and submits pull requests for code review before merging into the main branch.
