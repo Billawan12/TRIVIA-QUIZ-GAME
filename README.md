@@ -30,12 +30,12 @@ TriviaQuizGame/
 
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/TriviaVerseQuizGame.git
+git clone https://github.com/yourusername/TriviaQuizGame.git
 
 
 	2.	Navigate to the project directory:
 
-cd TriviaVerseQuizGame
+cd TriviaQuizGame
 
 
 	3.	Open the TRIVIAVERSE.html file in your browser to start the game.
