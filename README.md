@@ -47,6 +47,6 @@ cd TriviaQuizGame
 	3.	Open the TRIVIAQUIZ.html file in your browser to start the game.
 
  # Contibuting 
- We’re working collaboratively on this project. Each team member works on their assigned branch and submits pull requests for code review before merging into the main branch.
+ We’re working collaboratively on this Assignment. Each team member works on their assigned branch and submits into the main branch.
 
 
